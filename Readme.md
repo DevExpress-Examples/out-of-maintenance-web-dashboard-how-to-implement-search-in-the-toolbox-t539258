@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Default.aspx](./CS/WebApplication18/Default.aspx) (VB: [Default.aspx.vb](./VB/WebApplication18/Default.aspx.vb))**
+* [Default.aspx.cs](./CS/WebApplication18/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication18/Default.aspx.vb))
+* [ToolboxSearchExtension.css](./CS/WebApplication18/ToolboxSearchExtension/ToolboxSearchExtension.css)
+* [ToolboxSearchExtension.js](./CS/WebApplication18/ToolboxSearchExtension/ToolboxSearchExtension.js) (VB: [ToolboxSearchExtension.js](./VB/WebApplication18/ToolboxSearchExtension/ToolboxSearchExtension.js))
+<!-- default file list end -->
 # Web Dashboard - How to implement search in the Toolbox
 
 
